@@ -6,6 +6,7 @@
   
   <h2> Call Us : + 9985396677</h2>
   <h4> KARTHIK IT<h4>
+  <h6> BANGALORE <h6>
   
 
 </body>
